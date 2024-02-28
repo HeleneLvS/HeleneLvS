@@ -1,4 +1,8 @@
 ### Hi there 👋
+Welcome to my humble Github profile!
+- 🔭 I’m currently working on putting together a portfolio of my work and my interests focussed on Data Science and Analytics
+- ⚡ Fun fact: I have lived on 4 continents and worked in two countries
+- 🌱 Have an idea for a collaboration? Leave me a comment!💬
 
 <!--
 **HeleneLvS/HeleneLvS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
